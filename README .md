@@ -9,3 +9,5 @@ mac에서의 계산기를 보이는데로 만들어 코딩해보았습니다
    결과 내기를 연속으로 누를시 처음 계산한값 + 나중숫자가 자동으로 계산됩니다
 4. AC 를 누를시 계산기가 초기화됩니다
 5. +/- 와 % 는 미구현상태입니다
+
+https://insidelamp.github.io/JS_calculator/calculator.html  여기서 확인가능합니다
